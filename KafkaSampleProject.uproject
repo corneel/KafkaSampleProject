@@ -1,13 +1,20 @@
 {
-	"FileVersion": 3,
-	"EngineAssociation": "4.19",
-	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "KafkaSampleProject",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	]
+  "FileVersion": 3,
+  "EngineAssociation": "4.19",
+  "Category": "",
+  "Description": "",
+  "Modules": [
+    {
+      "Name": "KafkaSampleProject",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "Kafka",
+      "Enabled": true,
+      "MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5b6cc7a1169040dc854374f66da43ec0"
+    }
+  ]
 }
