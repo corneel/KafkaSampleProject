@@ -6,7 +6,7 @@ Saved/
 # We want everything in the Plugin folder
 !Plugins/**
 !packages/**
-!Binaries/**
+!Binaries/Win64/**
 
 # Visual Studio user specific files to ignore
 .vs/
