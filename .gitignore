@@ -1,6 +1,4 @@
 # Standard Unreal folders to be ignored
-Binaries/
-Build
 DerivedDataCache/
 Intermediate/
 Saved/
@@ -25,7 +23,7 @@ Saved/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-#*.dll
+*.dll
 
 # Fortran module files
 *.mod
