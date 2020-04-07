@@ -1,6 +1,4 @@
 # Standard Unreal folders to be ignored
-Binaries/
-Build
 DerivedDataCache/
 Intermediate/
 Saved/
@@ -8,6 +6,7 @@ Saved/
 # We want everything in the Plugin folder
 !Plugins/**
 !packages/**
+!Binaries/**
 
 # Visual Studio user specific files to ignore
 .vs/
@@ -25,7 +24,6 @@ Saved/
 # Compiled Dynamic libraries
 *.so
 *.dylib
-#*.dll
 
 # Fortran module files
 *.mod
@@ -34,10 +32,10 @@ Saved/
 *.lai
 *.la
 *.a
-#*.lib
+*.lib
 
 # Executables
-#*.exe
+*.exe
 *.out
 *.app
 *.ipa
