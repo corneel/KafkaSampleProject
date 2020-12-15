@@ -1,0 +1,6 @@
+{
+	"OutputFiles": [
+		"Module.Kafka.cpp.obj",
+		"Module.Kafka.gen.cpp.obj"
+	]
+}

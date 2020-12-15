@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Kafka.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Augmented Enterprise\KafkaSampleProject\Intermediate\Build\Win64\KafkaSampleProjectEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\Augmented Enterprise\KafkaSampleProject\Plugins\KafkaPlugin\Intermediate\Build\Win64\UE4Editor\Development\Kafka\Module.Kafka.cpp.obj"
+"D:\Unreal Projects\Augmented Enterprise\KafkaSampleProject\Plugins\KafkaPlugin\Intermediate\Build\Win64\UE4Editor\Development\Kafka\Module.Kafka.gen.cpp.obj"
+"D:\Unreal Projects\Augmented Enterprise\KafkaSampleProject\Plugins\KafkaPlugin\Intermediate\Build\Win64\UE4Editor\Development\Kafka\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Augmented Enterprise\KafkaSampleProject\Plugins\KafkaPlugin\Intermediate\Build\Win64\UE4Editor\Development\Kafka\UE4Editor-Kafka.lib"
+/INCLUDE:IMPLEMENT_MODULE_Kafka
