@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Kafka.cpp.obj": [
+			"Kafka.cpp.obj",
+			"KafkaActor.cpp.obj",
+			"KafkaBPLibrary.cpp.obj",
+			"KafkaPluginGameModeBase.cpp.obj"
+		],
+		"Module.Kafka.gen.cpp.obj": [
+			"Kafka.init.gen.cpp.obj",
+			"KafkaActor.gen.cpp.obj",
+			"KafkaBPLibrary.gen.cpp.obj",
+			"KafkaPluginGameModeBase.gen.cpp.obj"
+		]
+	}
+}
